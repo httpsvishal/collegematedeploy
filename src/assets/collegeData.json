@@ -1,0 +1,779 @@
+[
+    {
+        "id": 1,
+        "name": "Uttaranchal University",
+        "location": "Prem Nagar, Dehradun, Uttarakhand 248007",
+        "logo": "https://clgtak.com/wp-content/uploads/2023/12/305028059_459993886175821_243945184282926969_n-1.jpg",
+        "thumbnail": "https://vidhyamacademy.com/wp-content/uploads/2023/11/uttranchal-again-e1699621177932.png",
+        "rating": 4.5,
+        "type": "Private",
+        "established": 2005,
+        "affiliated": "UGC & NAAC",
+        "naac": "A+",
+        "intro": "Uttaranchal University is a premier educational institution located in Dehradun, Uttarakhand, known for its academic excellence and diverse range of professional programs. Established with a vision to provide quality education in various fields, the university offers undergraduate, postgraduate, and doctoral programs across disciplines such as engineering, law, management, pharmacy, agriculture, and the applied sciences.",
+        "intro2":"Accredited by NAAC with an 'A+' grade, Uttaranchal University is recognized for its state-of-the-art infrastructure, experienced faculty, and industry-driven curriculum. The university fosters a dynamic learning environment, combining theoretical knowledge with practical exposure, preparing students for global career opportunities. Its lush green campus, modern facilities, and strong focus on research and innovation make it a preferred choice for students seeking comprehensive education in a serene and vibrant setting.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses":"8",
+                "duration": "4 years",
+                "fees": "₹ 6-10.8 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main,CUET,Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 48 LPA"
+            },
+            {
+                "id": 2,
+                "name": "BBA",
+                "courses":"8",
+                "duration": "3 years",
+                "fees": "₹ 87 K - 4.1 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 7 LPA",
+                "highestpackage": "₹ 19.5 LPA"
+            },
+            {
+                "id": 3,
+                "name": "BCA",
+                "courses":"5",
+                "duration": "3 years",
+                "fees": "₹ 87 K - 5.4 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 26 LPA"
+            },
+            {
+                "id": 4,
+                "name": "B.Sc",
+                "courses":"23",
+                "duration": "3 - 4 years",
+                "fees": "₹ 2.1 - 9.6 Lakh",
+                "eligibility": "10+2 with 45% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 4.9 LPA",
+                "highestpackage": "₹ 20 LPA"
+
+            },
+            {
+                "id": 5,
+                "name": "MBA / PGDM",
+                "courses":"7",
+                "duration": "2 years",
+                "fees": "₹ 82 K - 5.4 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "CAT, MAT, XAT, CMAT, GMAT, CUET, Through Merit",
+                "avgplacement": "₹ 5 LPA",
+                "highestpackage": "₹ 19.5 LPA"
+            },
+            {
+                "id": 6,
+                "name": "B.A. LL.B.(Hons)",
+                "courses":"1",
+                "duration": "5 years",
+                "fees": "₹ 14.2 Lakh",
+                "eligibility": "10+2 with 45% marks",
+                "admission": "CLAT, LSAT, Through Merit",
+                "avgplacement": "₹ 7 - 8 LPA",
+                "highestpackage": "₹ 26.4 LPA"
+            },
+            {
+                "id": 7,
+                "name": "M.Sc.",
+                "courses":"14",
+                "duration": "2 years",
+                "fees": "₹ 1.4 - 2.7 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 7 - 8 LPA",
+                "highestpackage": "₹ 15 LPA"
+            },
+            {
+                "id": 8,
+                "name": "B.A.",
+                "courses":"7",
+                "duration": "3 years",
+                "fees": "₹ 57 K - 2.8 Lakh",
+                "eligibility": "10+2 with 45% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 9,
+                "name": "B.Com",
+                "courses":"3",
+                "duration": "3 years",
+                "fees": "₹ 3.7 Lakh",
+                "eligibility": "10+2 with 45% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 10,
+                "name": "B.Pharma",
+                "courses":"1",
+                "duration": "4 years",
+                "fees": "₹ 7.6 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 11,
+                "name": "MCA",
+                "courses":"4",
+                "duration": "2 years",
+                "fees": "₹ 1.4 - 2.7 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"12",
+                "name": "BPT",
+                "courses":"1",
+                "duration": "4.5 years",
+                "fees": "₹ 4.9 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"13",
+                "name": "BBA. LL.B.(Hons)",
+                "courses":"1",
+                "duration": "5 years",
+                "fees": "₹ 14.2 Lakh",
+                "eligibility": "10+2 with 45% marks",
+                "admission": "CLAT, LSAT, Through Merit",
+                "avgplacement": "₹ 7-8 LPA",
+                "highestpackage": "₹ 26.4 LPA"
+            },
+            {
+                "id":"14",
+                "name": "M.A.",
+                "courses":"4",
+                "duration": "2 years",
+                "fees": "₹ 1.4 - 1.9 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"15",
+                "name": "D.Pharm",
+                "courses":"1",
+                "duration": "2 years",
+                "fees": "₹ 1.9 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"16",
+                "name": "BHMCT",
+                "courses":"1",
+                "duration": "4 years",
+                "fees": "₹ 4.9 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"17",
+                "name":"LLM",
+                "courses":"1",
+                "duration": "1 year",
+                "fees": "₹ 1.9 Lakh",
+                "eligibility": "LLB with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 6.6 LPA",
+                "highestpackage": "₹ 26.5 LPA"
+            },
+            {
+                "id":"18",
+                "name":"BMLT",
+                "courses":"1",
+                "duration": "3 years",
+                "fees": "₹ 3.7 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"19",
+                "name":"BOPTM",
+                "courses":"2",
+                "duration": "3 years",
+                "fees": "₹ 3.7 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.6 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id":"20",
+                "name":"M.E / M.Tech",
+                "courses":"5",
+                "duration": "2 years",
+                "fees": "₹ 4.2 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "GATE, Through Merit",
+                "avgplacement": "₹ 6.5 LPA",
+                "highestpackage": "₹ 48 LPA"
+            }
+        ]
+
+    },
+    {
+        "id": 2,
+        "name": "JB Institute of Technology (JBIT)",
+        "location": "Chakrata Road, Dehradun, Uttarakhand 248197",
+        "logo": "https://www.jbitdoon.com/images/logo.png",
+        "thumbnail": "https://www.jbitdoon.com/images/campus.jpg",
+        "rating": 4.2,
+        "type": "Private",
+        "established": 2009,
+        "affiliated": "AICTE, Uttarakhand Technical University",
+        "naac": "B+",
+        "intro": "JB Institute of Technology offers a variety of undergraduate and postgraduate programs in engineering and management. It is known for its focus on practical learning and industry exposure.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses": "7",
+                "duration": "4 years",
+                "fees": "₹ 4 - 6 Lakh",
+                "eligibility": "10+2 with 45% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 12 LPA"
+            },
+            {
+                "id": 2,
+                "name": "MBA",
+                "courses": "2",
+                "duration": "2 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "CAT, MAT, CMAT, Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 8 LPA"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Shivalik College of Engineering",
+        "location": "Shimla Bypass Road, Dehradun, Uttarakhand 248007",
+        "logo": "https://www.shivalikcollege.edu.in/wp-content/uploads/2020/12/Shivalik-Logo-White.png",
+        "thumbnail": "https://cache.careers360.mobi/media/colleges/social-media/media-gallery/3170/2020/9/1/Campus%20view%20of%20Shivalik%20College%20of%20Engineering%20Dehradun_Campus-view.jpg",
+        "rating": 4.3,
+        "type": "Private",
+        "established": 2008,
+        "affiliated": "AICTE, Uttarakhand Technical University",
+        "naac": "B+",
+        "intro": "Shivalik College of Engineering offers quality education in the field of engineering and management, focusing on innovation and research.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses": "6",
+                "duration": "4 years",
+                "fees": "₹ 4.2 - 6.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 15 LPA"
+            },
+            {
+                "id": 2,
+                "name": "Diploma",
+                "courses": "3",
+                "duration": "3 years",
+                "fees": "₹ 1.5 - 2.5 Lakh",
+                "eligibility": "10th Pass",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 2.5 LPA",
+                "highestpackage": "₹ 6 LPA"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Tulas Institute",
+        "location": "Dhoolkot, Dehradun, Uttarakhand 248011",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrF7SXK_WOAw3caCXsZX4tTnJGlV-JCV83dA&s",
+        "thumbnail": "https://tulas.edu.in/wp-content/uploads/2022/03/Aerial-View.webp",
+        "rating": 4.4,
+        "type": "Private",
+        "established": 2006,
+        "affiliated": "AICTE, Uttarakhand Technical University",
+        "naac": "A",
+        "intro": "Tulas Institute is known for its excellent infrastructure and strong academic programs in engineering, management, and computer applications.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses": "7",
+                "duration": "4 years",
+                "fees": "₹ 4.5 - 7 Lakh",
+                "eligibility": "10+2 with 55% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 4.2 LPA",
+                "highestpackage": "₹ 20 LPA"
+            },
+            {
+                "id": 2,
+                "name": "MBA",
+                "courses": "3",
+                "duration": "2 years",
+                "fees": "₹ 3 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "CAT, MAT, CMAT, Through Merit",
+                "avgplacement": "₹ 5 LPA",
+                "highestpackage": "₹ 12 LPA"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Maya Group of Colleges",
+        "location": "Selaqui, Dehradun, Uttarakhand 248197",
+        "logo": "http://mayagroupofcolleges.org/wp-content/uploads/2017/05/maya-logo.png",
+        "thumbnail": "https://images.collegedunia.com/public/college_data/images/appImage/15847825597864841330315013002066556028207498693967872n.jpg?h=260&w=360&mode=crop",
+        "rating": 4.1,
+        "type": "Private",
+        "established": 2000,
+        "affiliated": "AICTE, Uttarakhand Technical University",
+        "naac": "B",
+        "intro": "Maya Group of Colleges offers various undergraduate and postgraduate programs across disciplines like engineering, management, and applied sciences.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses": "5",
+                "duration": "4 years",
+                "fees": "₹ 3.5 - 5.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 3.2 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 2,
+                "name": "BBA",
+                "courses": "2",
+                "duration": "3 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 7 LPA"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Alpine Institute of Technology",
+        "location": "Nanda Ki Chowki, Prem Nagar, Dehradun, Uttarakhand 248007",
+        "logo": "https://www.alpinecollege.edu.in/images/logo.png",
+        "thumbnail": "https://images.shiksha.com/mediadata/images/1704704389phpgDQnnN.jpeg",
+        "rating": 4.0,
+        "type": "Private",
+        "established": 1994,
+        "affiliated": "AICTE, Uttarakhand Technical University",
+        "naac": "B",
+        "intro": "Alpine Institute of Technology offers a wide range of technical and management courses with a strong emphasis on hands-on learning and industry exposure.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses": "5",
+                "duration": "4 years",
+                "fees": "₹ 3.8 - 5.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 8 LPA"
+            },
+            {
+                "id": 2,
+                "name": "Diploma",
+                "courses": "3",
+                "duration": "3 years",
+                "fees": "₹ 1.8 - 2.5 Lakh",
+                "eligibility": "10th Pass",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 2.5 LPA",
+                "highestpackage": "₹ 5 LPA"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "GRD Institute of Management & Technology (GRD IMT)",
+        "location": "Rajpur, Dehradun, Uttarakhand 248009",
+        "logo": "https://www.grdimt.com/wp-content/uploads/2020/07/GRD-logo.png",
+        "thumbnail": "https://www.collegeinfoindia.com/?attachment_id=3732",
+        "rating": 4.3,
+        "type": "Private",
+        "established": 1989,
+        "affiliated": "AICTE, Uttarakhand Technical University",
+        "naac": "A",
+        "intro": "GRD Institute of Management & Technology (GRD IMT) is a premier institution in Dehradun offering a wide range of undergraduate and postgraduate programs in engineering, management, and applied sciences. The institute is known for its excellent infrastructure, industry-oriented curriculum, and strong placement support.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.E / B.Tech",
+                "courses": "8",
+                "duration": "4 years",
+                "fees": "₹ 4.5 - 7 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 4.5 LPA",
+                "highestpackage": "₹ 20 LPA"
+            },
+            {
+                "id": 2,
+                "name": "MBA",
+                "courses": "5",
+                "duration": "2 years",
+                "fees": "₹ 4 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "CAT, MAT, CMAT, Through Merit",
+                "avgplacement": "₹ 5 LPA",
+                "highestpackage": "₹ 12 LPA"
+            },
+            {
+                "id": 3,
+                "name": "MCA",
+                "courses": "2",
+                "duration": "3 years",
+                "fees": "₹ 3.5 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "Entrance Exam, Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 4,
+                "name": "BBA",
+                "courses": "3",
+                "duration": "3 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 8 LPA"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sai Group of Institutions",
+        "location": "Saharanpur Road, Dehradun, Uttarakhand 248001",
+        "logo": "https://saieducationgroup.org/wp-content/uploads/2021/07/sai-logo.png",
+        "thumbnail": "https://www.srisaigroup.in/images/hslider/d.jpg",
+        "rating": 4.2,
+        "type": "Private",
+        "established": 2003,
+        "affiliated": "HNB Garhwal University, Uttarakhand Technical University",
+        "naac": "B",
+        "intro": "Sai Group of Institutions is renowned for its quality education in the fields of health sciences, nursing, paramedical sciences, and management. The college provides state-of-the-art facilities and experienced faculty to ensure a robust academic environment.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.Sc Nursing",
+                "courses": "1",
+                "duration": "4 years",
+                "fees": "₹ 3.5 - 4 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB",
+                "admission": "Entrance Exam, Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 8 LPA"
+            },
+            {
+                "id": 2,
+                "name": "BPT",
+                "courses": "1",
+                "duration": "4.5 years",
+                "fees": "₹ 3.5 - 4 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 7 LPA"
+            },
+            {
+                "id": 3,
+                "name": "MPT",
+                "courses": "1",
+                "duration": "2 years",
+                "fees": "₹ 2 - 3 Lakh",
+                "eligibility": "BPT with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 9 LPA"
+            },
+            {
+                "id": 4,
+                "name": "BBA",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 7 LPA"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Doon Group of Colleges",
+        "location": "Selaqui, Dehradun, Uttarakhand 248197",
+        "logo": "https://www.doongroupofcolleges.com/wp-content/uploads/2018/10/doon-logo.png",
+        "thumbnail": "https://dooncolleges.in/wp-content/uploads/2024/07/Doon-Group-of-colleges-sunderpur-saharanpur.png",
+        "rating": 4.0,
+        "type": "Private",
+        "established": 1998,
+        "affiliated": "HNB Garhwal University, Uttarakhand Technical University",
+        "naac": "B",
+        "intro": "Doon Group of Colleges offers diverse undergraduate and postgraduate programs in the fields of management, computer applications, pharmacy, and education. The institution is well-known for its focus on quality education and student-centric approach.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.Pharm",
+                "courses": "1",
+                "duration": "4 years",
+                "fees": "₹ 4 - 5 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB/PCM",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 2,
+                "name": "M.Pharm",
+                "courses": "1",
+                "duration": "2 years",
+                "fees": "₹ 3 - 4 Lakh",
+                "eligibility": "B.Pharm with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 8 LPA"
+            },
+            {
+                "id": 3,
+                "name": "BBA",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 7 LPA"
+            },
+            {
+                "id": 4,
+                "name": "BCA",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.2 LPA",
+                "highestpackage": "₹ 7 LPA"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Dev Bhoomi University",
+        "location": "Navgaon, Manduwala, Dehradun, Uttarakhand 248007",
+        "logo": "https://www.dbuu.ac.in/wp-content/uploads/2021/11/DBUU-Logo.png",
+        "thumbnail": "https://images.shiksha.com/mediadata/images/1641367554phpmA4KWd.jpeg",
+        "rating": 4.4,
+        "type": "Private",
+        "established": 2005,
+        "affiliated": "UGC, AICTE, PCI",
+        "naac": "A",
+        "intro": "Dev Bhoomi University (DBUU) is a leading private university in Dehradun, offering a wide range of programs across various disciplines such as engineering, management, pharmacy, agriculture, and applied sciences.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.Tech",
+                "courses": "8",
+                "duration": "4 years",
+                "fees": "₹ 5 - 8 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 5 LPA",
+                "highestpackage": "₹ 20 LPA"
+            },
+            {
+                "id": 2,
+                "name": "MBA",
+                "courses": "5",
+                "duration": "2 years",
+                "fees": "₹ 4.5 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "CAT, MAT, CMAT, Through Merit",
+                "avgplacement": "₹ 5.5 LPA",
+                "highestpackage": "₹ 12 LPA"
+            },
+            {
+                "id": 3,
+                "name": "B.Pharm",
+                "courses": "1",
+                "duration": "4 years",
+                "fees": "₹ 5 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB/PCM",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 4,
+                "name": "BCA",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2.5 - 3 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 7 LPA"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Dolphin Institute of Biomedical & Natural Sciences",
+        "location": "Manduwala, Dehradun, Uttarakhand 248007",
+        "logo": "https://www.dolphininstitute.in/wp-content/uploads/2020/08/dolphin-logo.png",
+        "thumbnail": "https://images.collegedunia.com/public/college_data/images/appImage/10384_DOLPHIN_NEW.jpg",
+        "rating": 4.1,
+        "type": "Private",
+        "established": 2002,
+        "affiliated": "HNB Garhwal University, Uttarakhand Technical University",
+        "naac": "B",
+        "intro": "Dolphin Institute is a premier institution specializing in biomedical, natural sciences, and allied health sciences. The college is well-regarded for its research initiatives and high academic standards.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.Sc Biotechnology",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2 - 3 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 6 LPA"
+            },
+            {
+                "id": 2,
+                "name": "M.Sc Biotechnology",
+                "courses": "1",
+                "duration": "2 years",
+                "fees": "₹ 2 - 3 Lakh",
+                "eligibility": "Graduation with 50% marks in Life Sciences",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 4 LPA",
+                "highestpackage": "₹ 7 LPA"
+            },
+            {
+                "id": 3,
+                "name": "B.Sc Microbiology",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2 - 3 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 6 LPA"
+            },
+            {
+                "id": 4,
+                "name": "BPT",
+                "courses": "1",
+                "duration": "4.5 years",
+                "fees": "₹ 3 - 4 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3.5 LPA",
+                "highestpackage": "₹ 8 LPA"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "BFIT Group of Institutions",
+        "location": "Suddhowala, Dehradun, Uttarakhand 248007",
+        "logo": "https://www.bfitdoon.com/wp-content/uploads/2021/09/bfit-logo.png",
+        "thumbnail": "https://admissiontrustline.com/wp-content/uploads/2024/02/bfit123.jpg",
+        "rating": 4.2,
+        "type": "Private",
+        "established": 2002,
+        "affiliated": "HNB Garhwal University, AICTE",
+        "naac": "B",
+        "intro": "BFIT Group of Institutions offers a diverse range of undergraduate and postgraduate programs across disciplines like engineering, management, computer applications, and life sciences. The college is well-known for its strong industry connections and high placement rates.",
+        "courses": [
+            {
+                "id": 1,
+                "name": "B.Tech",
+                "courses": "6",
+                "duration": "4 years",
+                "fees": "₹ 4 - 6 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "JEE Main, Through Merit",
+                "avgplacement": "₹ 4.5 LPA",
+                "highestpackage": "₹ 12 LPA"
+            },
+            {
+                "id": 2,
+                "name": "MBA",
+                "courses": "5",
+                "duration": "2 years",
+                "fees": "₹ 4 Lakh",
+                "eligibility": "Graduation with 50% marks",
+                "admission": "CAT, MAT, CMAT, Through Merit",
+                "avgplacement": "₹ 5 LPA",
+                "highestpackage": "₹ 10 LPA"
+            },
+            {
+                "id": 3,
+                "name": "B.Sc Agriculture",
+                "courses": "1",
+                "duration": "4 years",
+                "fees": "₹ 2.5 - 3 Lakh",
+                "eligibility": "10+2 with 50% marks in PCB/PCM",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 6 LPA"
+            },
+            {
+                "id": 4,
+                "name": "BBA",
+                "courses": "1",
+                "duration": "3 years",
+                "fees": "₹ 2.5 Lakh",
+                "eligibility": "10+2 with 50% marks",
+                "admission": "Through Merit",
+                "avgplacement": "₹ 3 LPA",
+                "highestpackage": "₹ 7 LPA"
+            }
+        ]
+    }
+]
